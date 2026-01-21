@@ -1794,6 +1794,10 @@
 "/docs/paas/eu/":
   url: "/docs/paas/eu/"
   redirect_from: []
+"/docs/paas/eu/legacy-subscriptions/":
+  url: "/docs/paas/eu/legacy-subscriptions/"
+  redirect_from:
+  - "/products/paas/subscription/"
 "/docs/paas/eu/mobile-center/applications/":
   url: "/docs/paas/eu/mobile-center/applications/"
   redirect_from: []
@@ -1873,8 +1877,8 @@
 "/docs/paas/eu/solution-templates/air-quality-monitoring/":
   url: "/docs/paas/eu/solution-templates/air-quality-monitoring/"
   redirect_from: []
-"/docs/paas/eu/solution-templates/fleet-tracking/":
-  url: "/docs/paas/eu/solution-templates/fleet-tracking/"
+"/docs/paas/eu/solution-templates/assisted-living/":
+  url: "/docs/paas/eu/solution-templates/assisted-living/"
   redirect_from: []
 "/docs/paas/eu/solution-templates/fuel-level-monitoring/":
   url: "/docs/paas/eu/solution-templates/fuel-level-monitoring/"
@@ -1888,12 +1892,16 @@
 "/docs/paas/eu/solution-templates/scada-energy-management/":
   url: "/docs/paas/eu/solution-templates/scada-energy-management/"
   redirect_from: []
+"/docs/paas/eu/solution-templates/site-fleet-tracking/":
+  url: "/docs/paas/eu/solution-templates/site-fleet-tracking/"
+  redirect_from: []
 "/docs/paas/eu/solution-templates/smart-irrigation/":
   url: "/docs/paas/eu/solution-templates/smart-irrigation/"
   redirect_from: []
 "/docs/paas/eu/solution-templates/smart-office/":
   url: "/docs/paas/eu/solution-templates/smart-office/"
-  redirect_from: []
+  redirect_from:
+  - "/docs/samples/monitoring/facilities-monitoring-poc/"
 "/docs/paas/eu/solution-templates/smart-retail/":
   url: "/docs/paas/eu/solution-templates/smart-retail/"
   redirect_from: []
@@ -1909,9 +1917,11 @@
 "/docs/paas/eu/solution-templates/water-metering/":
   url: "/docs/paas/eu/solution-templates/water-metering/"
   redirect_from: []
-"/docs/paas/eu/subscription/":
-  url: "/docs/paas/eu/subscription/"
-  redirect_from: []
+"/docs/paas/eu/subscriptions/":
+  url: "/docs/paas/eu/subscriptions/"
+  redirect_from:
+  - "/products/paas/eu/subscription/"
+  - "/docs/paas/eu/subscription/"
 "/docs/paas/eu/tutorials/function-based-on-telemetry-from-two-devices/":
   url: "/docs/paas/eu/tutorials/function-based-on-telemetry-from-two-devices/"
   redirect_from: []
@@ -1938,6 +1948,9 @@
   redirect_from: []
 "/docs/paas/eu/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/":
   url: "/docs/paas/eu/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/"
+  redirect_from: []
+"/docs/paas/eu/user-guide/alarm-rules/":
+  url: "/docs/paas/eu/user-guide/alarm-rules/"
   redirect_from: []
 "/docs/paas/eu/user-guide/alarms/":
   url: "/docs/paas/eu/user-guide/alarms/"
@@ -2209,6 +2222,9 @@
 "/docs/paas/eu/user-guide/secrets-storage/":
   url: "/docs/paas/eu/user-guide/secrets-storage/"
   redirect_from: []
+"/docs/paas/eu/user-guide/security/api-keys/":
+  url: "/docs/paas/eu/user-guide/security/api-keys/"
+  redirect_from: []
 "/docs/paas/eu/user-guide/self-registration/":
   url: "/docs/paas/eu/user-guide/self-registration/"
   redirect_from: []
@@ -2339,6 +2355,10 @@
 "/docs/paas/":
   url: "/docs/paas/"
   redirect_from: []
+"/docs/paas/legacy-subscriptions/":
+  url: "/docs/paas/legacy-subscriptions/"
+  redirect_from:
+  - "/products/paas/subscription/"
 "/docs/paas/mobile-center/applications/":
   url: "/docs/paas/mobile-center/applications/"
   redirect_from: []
@@ -2418,8 +2438,8 @@
 "/docs/paas/solution-templates/air-quality-monitoring/":
   url: "/docs/paas/solution-templates/air-quality-monitoring/"
   redirect_from: []
-"/docs/paas/solution-templates/fleet-tracking/":
-  url: "/docs/paas/solution-templates/fleet-tracking/"
+"/docs/paas/solution-templates/assisted-living/":
+  url: "/docs/paas/solution-templates/assisted-living/"
   redirect_from: []
 "/docs/paas/solution-templates/fuel-level-monitoring/":
   url: "/docs/paas/solution-templates/fuel-level-monitoring/"
@@ -2433,12 +2453,16 @@
 "/docs/paas/solution-templates/scada-energy-management/":
   url: "/docs/paas/solution-templates/scada-energy-management/"
   redirect_from: []
+"/docs/paas/solution-templates/site-fleet-tracking/":
+  url: "/docs/paas/solution-templates/site-fleet-tracking/"
+  redirect_from: []
 "/docs/paas/solution-templates/smart-irrigation/":
   url: "/docs/paas/solution-templates/smart-irrigation/"
   redirect_from: []
 "/docs/paas/solution-templates/smart-office/":
   url: "/docs/paas/solution-templates/smart-office/"
-  redirect_from: []
+  redirect_from:
+  - "/docs/samples/monitoring/facilities-monitoring-poc/"
 "/docs/paas/solution-templates/smart-retail/":
   url: "/docs/paas/solution-templates/smart-retail/"
   redirect_from: []
@@ -2454,10 +2478,11 @@
 "/docs/paas/solution-templates/water-metering/":
   url: "/docs/paas/solution-templates/water-metering/"
   redirect_from: []
-"/docs/paas/subscription/":
-  url: "/docs/paas/subscription/"
+"/docs/paas/subscriptions/":
+  url: "/docs/paas/subscriptions/"
   redirect_from:
   - "/products/paas/subscription/"
+  - "/docs/paas/subscription/"
 "/docs/paas/tutorials/function-based-on-telemetry-from-two-devices/":
   url: "/docs/paas/tutorials/function-based-on-telemetry-from-two-devices/"
   redirect_from: []
@@ -2484,6 +2509,9 @@
   redirect_from: []
 "/docs/paas/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/":
   url: "/docs/paas/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/"
+  redirect_from: []
+"/docs/paas/user-guide/alarm-rules/":
+  url: "/docs/paas/user-guide/alarm-rules/"
   redirect_from: []
 "/docs/paas/user-guide/alarms/":
   url: "/docs/paas/user-guide/alarms/"
@@ -2754,6 +2782,9 @@
   redirect_from: []
 "/docs/paas/user-guide/secrets-storage/":
   url: "/docs/paas/user-guide/secrets-storage/"
+  redirect_from: []
+"/docs/paas/user-guide/security/api-keys/":
+  url: "/docs/paas/user-guide/security/api-keys/"
   redirect_from: []
 "/docs/paas/user-guide/self-registration/":
   url: "/docs/paas/user-guide/self-registration/"
@@ -3867,6 +3898,9 @@
 "/docs/pe/releases/releases-table/v4-2-x/":
   url: "/docs/pe/releases/releases-table/v4-2-x/"
   redirect_from: []
+"/docs/pe/releases/releases-table/v4-3-x/":
+  url: "/docs/pe/releases/releases-table/v4-3-x/"
+  redirect_from: []
 "/docs/pe/releases/roadmap/":
   url: "/docs/pe/releases/roadmap/"
   redirect_from: []
@@ -3894,8 +3928,8 @@
 "/docs/pe/solution-templates/air-quality-monitoring/":
   url: "/docs/pe/solution-templates/air-quality-monitoring/"
   redirect_from: []
-"/docs/pe/solution-templates/fleet-tracking/":
-  url: "/docs/pe/solution-templates/fleet-tracking/"
+"/docs/pe/solution-templates/assisted-living/":
+  url: "/docs/pe/solution-templates/assisted-living/"
   redirect_from: []
 "/docs/pe/solution-templates/fuel-level-monitoring/":
   url: "/docs/pe/solution-templates/fuel-level-monitoring/"
@@ -3908,6 +3942,9 @@
   redirect_from: []
 "/docs/pe/solution-templates/scada-energy-management/":
   url: "/docs/pe/solution-templates/scada-energy-management/"
+  redirect_from: []
+"/docs/pe/solution-templates/site-fleet-tracking/":
+  url: "/docs/pe/solution-templates/site-fleet-tracking/"
   redirect_from: []
 "/docs/pe/solution-templates/smart-irrigation/":
   url: "/docs/pe/solution-templates/smart-irrigation/"
@@ -3957,6 +3994,9 @@
   redirect_from: []
 "/docs/pe/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/":
   url: "/docs/pe/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/"
+  redirect_from: []
+"/docs/pe/user-guide/alarm-rules/":
+  url: "/docs/pe/user-guide/alarm-rules/"
   redirect_from: []
 "/docs/pe/user-guide/alarms/":
   url: "/docs/pe/user-guide/alarms/"
@@ -4101,6 +4141,9 @@
 "/docs/pe/user-guide/install/upgrade-instructions/centos/v4-2-x/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/centos/v4-2-x/"
   redirect_from: []
+"/docs/pe/user-guide/install/upgrade-instructions/centos/v4-3-x/":
+  url: "/docs/pe/user-guide/install/upgrade-instructions/centos/v4-3-x/"
+  redirect_from: []
 "/docs/pe/user-guide/install/upgrade-instructions/docker/v3-0-x/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/docker/v3-0-x/"
   redirect_from: []
@@ -4140,6 +4183,9 @@
 "/docs/pe/user-guide/install/upgrade-instructions/docker/v4-2-x/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/docker/v4-2-x/"
   redirect_from: []
+"/docs/pe/user-guide/install/upgrade-instructions/docker/v4-3-x/":
+  url: "/docs/pe/user-guide/install/upgrade-instructions/docker/v4-3-x/"
+  redirect_from: []
 "/docs/pe/user-guide/install/upgrade-instructions/docker-compose/v3-0-x/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/docker-compose/v3-0-x/"
   redirect_from: []
@@ -4178,6 +4224,9 @@
   redirect_from: []
 "/docs/pe/user-guide/install/upgrade-instructions/docker-compose/v4-2-x/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/docker-compose/v4-2-x/"
+  redirect_from: []
+"/docs/pe/user-guide/install/upgrade-instructions/docker-compose/v4-3-x/":
+  url: "/docs/pe/user-guide/install/upgrade-instructions/docker-compose/v4-3-x/"
   redirect_from: []
 "/docs/pe/user-guide/install/upgrade-instructions/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/"
@@ -4225,6 +4274,9 @@
 "/docs/pe/user-guide/install/upgrade-instructions/ubuntu/v4-2-x/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/ubuntu/v4-2-x/"
   redirect_from: []
+"/docs/pe/user-guide/install/upgrade-instructions/ubuntu/v4-3-x/":
+  url: "/docs/pe/user-guide/install/upgrade-instructions/ubuntu/v4-3-x/"
+  redirect_from: []
 "/docs/pe/user-guide/install/upgrade-instructions/upgrade-from-ce/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/upgrade-from-ce/"
   redirect_from: []
@@ -4266,6 +4318,9 @@
   redirect_from: []
 "/docs/pe/user-guide/install/upgrade-instructions/windows/v4-2-x/":
   url: "/docs/pe/user-guide/install/upgrade-instructions/windows/v4-2-x/"
+  redirect_from: []
+"/docs/pe/user-guide/install/upgrade-instructions/windows/v4-3-x/":
+  url: "/docs/pe/user-guide/install/upgrade-instructions/windows/v4-3-x/"
   redirect_from: []
 "/docs/pe/user-guide/mail-templates/":
   url: "/docs/pe/user-guide/mail-templates/"
@@ -4372,6 +4427,9 @@
 "/docs/pe/user-guide/secrets-storage/":
   url: "/docs/pe/user-guide/secrets-storage/"
   redirect_from: []
+"/docs/pe/user-guide/security/api-keys/":
+  url: "/docs/pe/user-guide/security/api-keys/"
+  redirect_from: []
 "/docs/pe/user-guide/self-registration/":
   url: "/docs/pe/user-guide/self-registration/"
   redirect_from:
@@ -4469,6 +4527,9 @@
 "/docs/pe/user-guide/ui/tenants/":
   url: "/docs/pe/user-guide/ui/tenants/"
   redirect_from: []
+"/docs/pe/user-guide/ui/trendz-settings/":
+  url: "/docs/pe/user-guide/ui/trendz-settings/"
+  redirect_from: []
 "/docs/pe/user-guide/ui/trip-animation-widget/":
   url: "/docs/pe/user-guide/ui/trip-animation-widget/"
   redirect_from:
@@ -4555,6 +4616,9 @@
   - "/docs/reference/mqtt-api"
 "/docs/reference/mqtt-sparkplug-api/":
   url: "/docs/reference/mqtt-sparkplug-api/"
+  redirect_from: []
+"/docs/reference/mqtt-v5-errors-code/":
+  url: "/docs/reference/mqtt-v5-errors-code/"
   redirect_from: []
 "/docs/reference/msa/":
   url: "/docs/reference/msa/"
@@ -4655,6 +4719,9 @@
   redirect_from: []
 "/docs/releases/releases-table/v4-2-x/":
   url: "/docs/releases/releases-table/v4-2-x/"
+  redirect_from: []
+"/docs/releases/releases-table/v4-3-x/":
+  url: "/docs/releases/releases-table/v4-3-x/"
   redirect_from: []
 "/docs/releases/roadmap/":
   url: "/docs/releases/roadmap/"
@@ -4786,6 +4853,18 @@
 "/docs/sitemap/":
   url: "/docs/sitemap/"
   redirect_from: []
+"/docs/trendz/activation/how-to/":
+  url: "/docs/trendz/activation/how-to/"
+  redirect_from: []
+"/docs/trendz/activation/private-cloud/":
+  url: "/docs/trendz/activation/private-cloud/"
+  redirect_from: []
+"/docs/trendz/activation/public-cloud/":
+  url: "/docs/trendz/activation/public-cloud/"
+  redirect_from: []
+"/docs/trendz/activation/self-managed/":
+  url: "/docs/trendz/activation/self-managed/"
+  redirect_from: []
 "/docs/trendz/ai-assistance-overview/":
   url: "/docs/trendz/ai-assistance-overview/"
   redirect_from: []
@@ -4906,11 +4985,11 @@
 "/docs/trendz/install/kubernetes/":
   url: "/docs/trendz/install/kubernetes/"
   redirect_from: []
-"/docs/trendz/install/python-executor-configuration-linux/":
-  url: "/docs/trendz/install/python-executor-configuration-linux/"
+"/docs/trendz/install/old-docker-migrate/":
+  url: "/docs/trendz/install/old-docker-migrate/"
   redirect_from: []
-"/docs/trendz/install/python-executor-configuration-windows/":
-  url: "/docs/trendz/install/python-executor-configuration-windows/"
+"/docs/trendz/install/python-executor-configuration/":
+  url: "/docs/trendz/install/python-executor-configuration/"
   redirect_from: []
 "/docs/trendz/install/rhel/":
   url: "/docs/trendz/install/rhel/"
@@ -5062,6 +5141,9 @@
 "/docs/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/":
   url: "/docs/user-guide/advanced-guides-for-working-with-dashboard/advanced-dashboard-guide-lesson-5/"
   redirect_from: []
+"/docs/user-guide/alarm-rules/":
+  url: "/docs/user-guide/alarm-rules/"
+  redirect_from: []
 "/docs/user-guide/alarms/":
   url: "/docs/user-guide/alarms/"
   redirect_from:
@@ -5085,8 +5167,26 @@
 "/docs/user-guide/bulk-provisioning/":
   url: "/docs/user-guide/bulk-provisioning/"
   redirect_from: []
+"/docs/user-guide/calculated-fields/geofencing-calculated-field/":
+  url: "/docs/user-guide/calculated-fields/geofencing-calculated-field/"
+  redirect_from: []
 "/docs/user-guide/calculated-fields/":
   url: "/docs/user-guide/calculated-fields/"
+  redirect_from: []
+"/docs/user-guide/calculated-fields/propagation-calculated-field/":
+  url: "/docs/user-guide/calculated-fields/propagation-calculated-field/"
+  redirect_from: []
+"/docs/user-guide/calculated-fields/related-entities-aggregation-calculated-field/":
+  url: "/docs/user-guide/calculated-fields/related-entities-aggregation-calculated-field/"
+  redirect_from: []
+"/docs/user-guide/calculated-fields/script-calculated-field/":
+  url: "/docs/user-guide/calculated-fields/script-calculated-field/"
+  redirect_from: []
+"/docs/user-guide/calculated-fields/simple-calculated-field/":
+  url: "/docs/user-guide/calculated-fields/simple-calculated-field/"
+  redirect_from: []
+"/docs/user-guide/calculated-fields/time-series-data-aggregation-calculated-field/":
+  url: "/docs/user-guide/calculated-fields/time-series-data-aggregation-calculated-field/"
   redirect_from: []
 "/docs/user-guide/certificates/":
   url: "/docs/user-guide/certificates/"
@@ -5502,6 +5602,9 @@
 "/docs/user-guide/install/upgrade-instructions/centos/v4-2-x/":
   url: "/docs/user-guide/install/upgrade-instructions/centos/v4-2-x/"
   redirect_from: []
+"/docs/user-guide/install/upgrade-instructions/centos/v4-3-x/":
+  url: "/docs/user-guide/install/upgrade-instructions/centos/v4-3-x/"
+  redirect_from: []
 "/docs/user-guide/install/upgrade-instructions/docker/v3-0-x/":
   url: "/docs/user-guide/install/upgrade-instructions/docker/v3-0-x/"
   redirect_from: []
@@ -5541,6 +5644,9 @@
 "/docs/user-guide/install/upgrade-instructions/docker/v4-2-x/":
   url: "/docs/user-guide/install/upgrade-instructions/docker/v4-2-x/"
   redirect_from: []
+"/docs/user-guide/install/upgrade-instructions/docker/v4-3-x/":
+  url: "/docs/user-guide/install/upgrade-instructions/docker/v4-3-x/"
+  redirect_from: []
 "/docs/user-guide/install/upgrade-instructions/docker-compose/v3-0-x/":
   url: "/docs/user-guide/install/upgrade-instructions/docker-compose/v3-0-x/"
   redirect_from: []
@@ -5579,6 +5685,9 @@
   redirect_from: []
 "/docs/user-guide/install/upgrade-instructions/docker-compose/v4-2-x/":
   url: "/docs/user-guide/install/upgrade-instructions/docker-compose/v4-2-x/"
+  redirect_from: []
+"/docs/user-guide/install/upgrade-instructions/docker-compose/v4-3-x/":
+  url: "/docs/user-guide/install/upgrade-instructions/docker-compose/v4-3-x/"
   redirect_from: []
 "/docs/user-guide/install/upgrade-instructions/":
   url: "/docs/user-guide/install/upgrade-instructions/"
@@ -5625,6 +5734,9 @@
 "/docs/user-guide/install/upgrade-instructions/ubuntu/v4-2-x/":
   url: "/docs/user-guide/install/upgrade-instructions/ubuntu/v4-2-x/"
   redirect_from: []
+"/docs/user-guide/install/upgrade-instructions/ubuntu/v4-3-x/":
+  url: "/docs/user-guide/install/upgrade-instructions/ubuntu/v4-3-x/"
+  redirect_from: []
 "/docs/user-guide/install/upgrade-instructions/windows/v3-0-x/":
   url: "/docs/user-guide/install/upgrade-instructions/windows/v3-0-x/"
   redirect_from: []
@@ -5663,6 +5775,9 @@
   redirect_from: []
 "/docs/user-guide/install/upgrade-instructions/windows/v4-2-x/":
   url: "/docs/user-guide/install/upgrade-instructions/windows/v4-2-x/"
+  redirect_from: []
+"/docs/user-guide/install/upgrade-instructions/windows/v4-3-x/":
+  url: "/docs/user-guide/install/upgrade-instructions/windows/v4-3-x/"
   redirect_from: []
 "/docs/user-guide/install/vc-executor-config/":
   url: "/docs/user-guide/install/vc-executor-config/"
@@ -6227,6 +6342,9 @@
   redirect_from: []
 "/docs/user-guide/scada/":
   url: "/docs/user-guide/scada/"
+  redirect_from: []
+"/docs/user-guide/security/api-keys/":
+  url: "/docs/user-guide/security/api-keys/"
   redirect_from: []
 "/docs/user-guide/ssl/coap-access-token/":
   url: "/docs/user-guide/ssl/coap-access-token/"
