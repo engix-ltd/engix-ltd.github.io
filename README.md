@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository is deprecated and will be archived soon.**
+>
+> The [thingsboard.io](https://thingsboard.io) website has been migrated to the [Astro](https://astro.build/) framework and now lives at **[github.com/thingsboard/thingsboard.io](https://github.com/thingsboard/thingsboard.io)**.
+>
+> Please open new issues and pull requests in the new repository.
+
 ## Instructions for Contributing to the Docs/Website
 
 * [Fork this repository](https://help.github.com/articles/fork-a-repo/)
